@@ -1,0 +1,59 @@
+{
+    "Hidden Challenge": {
+        "links": [
+            "https://ctftime.org/writeup/8"
+        ],
+        "tags": [
+            "misc"
+        ]
+    },
+    "AwesomeCorp. Secured Ranges": {
+        "links": [
+            "http://eindbazen.net/?p=528",
+            "http://leetmore.ctf.su/wp/awesomecorp-secured-ranges-300/"
+        ],
+        "tags": [
+            "reverse engineering"
+        ]
+    },
+    "Spark - Underwater Camouflage": {
+        "links": [
+            "http://blog.squareroots.de/en/2012/01/mozillactf-write-up-underwater-camouflage-250/"
+        ],
+        "tags": [
+            "web"
+        ]
+    },
+    "Spark - Kill the Kraken": {
+        "links": [
+            "http://blog.squareroots.de/en/2012/01/mozillactf-write-up-kill-the-kraken-200/"
+        ],
+        "tags": [
+            "web"
+        ]
+    },
+    "Spark - Things long forgotten": {
+        "links": [
+            "http://blog.squareroots.de/en/2012/01/mozillactf-write-up-things-long-forgotten-200/"
+        ],
+        "tags": [
+            "web"
+        ]
+    },
+    "Buoy": {
+        "links": [
+            "http://blog.squareroots.de/en/2012/01/mozillactf-write-up-buoy-250/"
+        ],
+        "tags": [
+            "reverse engineering"
+        ]
+    },
+    "SecureFileLock": {
+        "links": [
+            "http://blog.squareroots.de/en/2012/01/mozillactf-write-up-securefilelock-250/"
+        ],
+        "tags": [
+            "reverse engineering"
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "f500": {
+        "links": [
+            "http://blog.lse.epita.fr/articles/13-defcon2k12-prequals-for500-writeup.html"
+        ],
+        "tags": [
+            "zpool",
+            "forensics"
+        ]
+    },
+    "f400": {
+        "links": [
+            "http://blog.lse.epita.fr/articles/15-defcon2k12-prequals-for400-writeup.html"
+        ],
+        "tags": [
+            "forensics",
+            "gpg"
+        ]
+    },
+    "f200": {
+        "links": [
+            "http://pwningyeti.wordpress.com/2012/06/07/defcon-20-ctf-prequals-2012-forensics-200-writeup/"
+        ],
+        "tags": [
+            "forensics"
+        ]
+    },
+    "pwn400": {
+        "links": [
+            "https://www.gnoobz.com/2012/06/defcon-quals-2012-potent-pwnable-400/"
+        ],
+        "tags": [
+            "bin"
+        ]
+    },
+    "pwn300": {
+        "links": [
+            "http://blog.lse.epita.fr/articles/14-defcon2k12-prequals-pwn300-writeup.html"
+        ],
+        "tags": [
+            "bin"
+        ]
+    },
+    "pwn200": {
+        "links": [
+            "https://ctftime.org/writeup/31"
+        ],
+        "tags": [
+            "bin"
+        ]
+    },
+    "pwn100": {
+        "links": [
+            "http://blog.lse.epita.fr/articles/17-defcon2k12-prequals-pwn100-writeup.html",
+            "http://www.bases-hacking.org/pwn100-defcon20.html"
+        ],
+        "tags": [
+            "bin"
+        ]
+    },
+    "bin400": {
+        "links": [
+            "http://x-n2o.com/bin400-dc20"
+        ],
+        "tags": [
+            "reverse engineering"
+        ]
+    },
+    "bin300": {
+        "links": [
+            "http://insight-labs.org/?p=368"
+        ],
+        "tags": [
+            "reverse engineering"
+        ]
+    },
+    "bin200": {
+        "links": [
+            "http://bamsoftware.com/computers/defcon-ctf-2012.html#b200",
+            "http://ppp.cylab.cmu.edu/wordpress/?p=874"
+        ],
+        "tags": [
+            "reverse engineering"
+        ]
+    },
+    "bin100": {
+        "links": [
+            "http://ppp.cylab.cmu.edu/wordpress/?p=867"
+        ],
+        "tags": [
+            "reverse engineering"
+        ]
+    }
+}
